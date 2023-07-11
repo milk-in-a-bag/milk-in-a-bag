@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milk-in-a-bag
 - 👀 I’m interested in web development and UI/UX design
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning react.js
 - 📫 How to reach me email @bryanmayodi@gmail.com
 
 <!---
