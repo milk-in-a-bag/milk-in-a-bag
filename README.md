@@ -18,14 +18,6 @@
 
 <p align="left"> <a href="https://twitter.com/carreymayodi" target="blank"><img src="https://img.shields.io/twitter/follow/carreymayodi?logo=twitter&style=for-the-badge" alt="carreymayodi" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **web projects**
-
-- 📫 How to reach me **bryanmayodi@gmail.com**
-
-- ⚡ Fun fact **I hold a guiness world record**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/carreymayodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carreymayodi" height="30" width="40" /></a>
